@@ -2,7 +2,7 @@ package inputs;
 
 import java.awt.event.KeyListener;
 
-import com.hyxud.Panel;
+import com.factorygame.Panel;
 
 import java.awt.event.KeyEvent;
 

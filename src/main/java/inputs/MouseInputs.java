@@ -4,7 +4,7 @@ import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
 import java.awt.event.MouseMotionListener;
 
-import com.hyxud.Panel;
+import com.factorygame.Panel;
 
 public class MouseInputs implements MouseListener, MouseMotionListener {
 
