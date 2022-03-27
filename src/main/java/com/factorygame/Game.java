@@ -1,4 +1,4 @@
-package com.hyxud;
+package com.factorygame;
 
 import game.Player;
 import java.awt.Graphics;
